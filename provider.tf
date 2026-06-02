@@ -4,4 +4,7 @@ azurerm = {
 source = "hashicorp"
 version = "4.75.0"
 }
+provider "azurerm" {
+features {}
+}
 
